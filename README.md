@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erenerinanc/)
 [![App Store](https://img.shields.io/badge/App_Store-Bliss_Dream_Journal-161B22?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6814809079)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-iOS_%26_Mobile-2865D8?style=for-the-badge)
-![Relocation](https://img.shields.io/badge/Open_to-Relocation-465875?style=for-the-badge)
+![Open to Relocation](https://img.shields.io/badge/OPEN%20TO%20RELOCATION-465875?style=for-the-badge&labelColor=465875)
 
 </div>
 
