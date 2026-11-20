@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Eren Erinanç iOS Engineer, Product Builder, AI-assisted Engineering">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#19233B"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#85B5FF"/><stop offset="1" stop-color="#B9A2FF"/></linearGradient><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B7C4E5" opacity=".16"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#dots)"/>
+<path d="M840 0L650 320M1040 0L850 320M1200 75L1050 320" fill="none" stroke="#889FDB" opacity=".12" stroke-width="2"/>
+<rect x="55" y="43" width="173" height="29" rx="14.5" fill="#293858"/><circle cx="73" cy="57.5" r="5" fill="#9CE2C3"/><text x="88" y="62" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" fill="#DCE6FD">OPEN TO OPPORTUNITIES</text>
+<text x="55" y="144" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#FFFFFF">Eren Erinanç</text>
+<rect x="55" y="164" width="87" height="4" rx="2" fill="url(#accent)"/>
+<text x="55" y="210" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" fill="#D5E2FC">iOS Engineer  ·  Product Builder</text>
+<text x="55" y="251" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#AABCE0">Mobile architecture  /  AI-assisted engineering  /  End-to-end delivery</text>
+<text x="55" y="291" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#B0C9EA">Swift  •  SwiftUI  •  UIKit  •  Clean Architecture</text>
+<g transform="translate(980,70)"><rect x="0" y="0" width="132" height="180" rx="25" fill="none" stroke="#A2B9F5" stroke-width="3" opacity=".68"/><rect x="15" y="18" width="102" height="142" rx="17" fill="#283854" opacity=".8"/><rect x="45" y="8" width="42" height="7" rx="3.5" fill="#A2B9F5" opacity=".8"/><path d="M38 102L60 124 95 68" fill="none" stroke="#B6A5FF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="66" cy="145" r="4" fill="#9BD8D8"/></g>
+</svg>
