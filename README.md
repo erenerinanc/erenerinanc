@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Eren Erinanç — iOS Engineer, Product Builder, AI-assisted Engineering" width="100%" />
+<img src="assets/profile-banner.svg?v=2" alt="Eren Erinanç — iOS Engineer, Product Builder, AI-assisted Engineering" width="100%" />
 
 <br />
 
@@ -52,7 +52,7 @@ An independently developed SwiftUI productivity app centered on focus, momentum,
 
 | Role | Experience & impact |
 | --- | --- |
-| **Trendyol** · Software Engineer, iOS / BFF <br> *Sep 2025 – Jul 2026* | Built high-traffic **search and discovery** experiences for an app serving millions. Worked with Swift, UIKit, SwiftUI, modular VIPER, and **Go-based mobile BFF** on sponsored placements, A/B experiments, reliability, and performance. |
+| **Trendyol** · Software Engineer, iOS / BFF <br> *Sep 2025 – Jul 2026* | Built high-traffic **search** experiences for an app serving millions. Worked with Swift, UIKit, SwiftUI, modular VIPER, and **Go-based mobile BFF** on sponsored placements, A/B experiments, reliability, and performance. |
 | **Ozan SuperApp** · iOS Developer <br> *Nov 2023 – Aug 2025* | Helped migrate **~80% of active screens** to a modular **Swift Package Manager** architecture. Defined interface-based module communication, built reusable SwiftUI foundations, and delivered onboarding, KYC, transfers, and payments. |
 | **TOD (via One Team)** · iOS Developer Consultant <br> *Sep 2024 – May 2025 · Concurrent contract* | Integrated push and analytics SDKs, built **backend-driven interfaces** using HATEOAS-style API responses, and configured shared modules with **Tuist and Clean VIP**. |
 | **VNGRS** · iOS Developer <br> *Jul 2022 – Nov 2023* | Sole in-house iOS developer across two greenfield client apps. Established **Clean Architecture** foundations and created the consultancy's first **shared iOS UI component library**. |
